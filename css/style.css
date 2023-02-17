@@ -1,0 +1,139 @@
+.conteiner {
+    max-width: 1440px;
+    width: 100%;
+}
+
+.header {
+    width: 1202px;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+.content {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.menu > ul  {
+    display: flex;
+    justify-content: space-between;
+    width: 324px;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 38px;
+    color: #000000;
+}
+
+
+.menu {
+    display: flex;
+    align-items: center;
+}
+
+
+.content-menu {
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.button {
+    width: 174px;
+    height: 63px;
+    margin-left: 40px;
+    background: #5463FF;
+    box-shadow: 3px -1px 14px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    transition: 0.5s;
+}
+
+.button > h3 {
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 38px;
+    display: flex;
+    justify-content: center;
+    align-self: center;
+    padding-top: 12px;
+}
+
+.button:hover {
+    background-color: #808af6;
+}
+
+.section {
+    width: 1202px;
+    margin: 0 auto
+}
+
+.heading {
+    width: 476px;
+    height: 201px; 
+    margin-top: 103px;
+}
+
+.heading > h3 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 32px;
+    line-height: 38px;
+    color: #000000;
+}
+
+.heading > h1 {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 80px;
+    line-height: 79px;
+    color: #5463FF;
+}
+
+.paragrap  {
+    width: 400px;
+    margin-top: 32px;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+
+}
+
+.contact {
+    width: 164px;
+    height: 63px;
+    background: #5463FF;
+    box-shadow: 3px -1px 14px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+    margin-top: 64px;
+
+}
+
+.contact > a {
+    display: flex;
+    justify-content: center;
+    padding-top: 12px;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 38px;
+    color: #ffffff;
+}
+
+
+
+
+
+
+
+
+
+
+
+
